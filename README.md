@@ -2,7 +2,7 @@
 
 <img width="541" height="224" alt="Screenshot 2026-08-08 073447" src="https://github.com/user-attachments/assets/23ef9405-9124-48ed-96f8-ab90f4f821b6" />
 
-
+[🛒 Click here to buy the full Python File Organizer package for $5.00](https://halalvibers.lemonsqueezy.com/checkout/buy/b0c3cdf7-4c57-48b1-b42a-438fd007f214)
 ## How to use
 1. Make sure you have Python installed.
 2. Download `file_organizer.py`.
